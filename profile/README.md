@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center"> We are XTenCode</h1>
+<h1 align="center"> We are XTenIT</h1>
 <h3 align="center">A passionate tech TEAM from NEPAL!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtencode&label=Profile%20views&color=0e75b6&style=flat" alt="xtencode" /> </p>
 
 - 🔭 We're currently working on **various projects**
 
