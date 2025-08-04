@@ -9,11 +9,11 @@
 
 - 🤝 We're looking for help with **some flutter projects**
 
-- 👨‍💻 All of our projects are available at [https://github.com/XTenCode](https://github.com/XTenCode)
+- 👨‍💻 All of our projects are available at [Github](https://github.com/XTenCode)
 
 - 💬 Ask us about **frontend and backend and UI/UX too**
 
-- 📫 How to reach us **https://github.com/XTenCode**
+- 📫 How to reach us **https://www.linkedin.com/company/xten-it/**
 
 - ⚡ Fun fact **We think we have best team! 😉**
 
